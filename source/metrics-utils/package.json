@@ -32,6 +32,7 @@
   },
   "overrides": {
     "minimatch@3": "3.1.5",
-    "minimatch@9": "9.0.8"
+    "minimatch@9": "9.0.8",
+    "fast-xml-parser": "5.3.8"
   }
 }
